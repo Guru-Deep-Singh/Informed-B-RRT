@@ -1,4 +1,5 @@
-  
+[Video](https://www.youtube.com/watch?v=5SEZZBKRWCk)
+
 # How to run  the code:
 
 Choose algorithm in file `traj_planning/test_sequence.m` and run.
